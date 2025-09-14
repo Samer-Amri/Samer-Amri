@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samer Amri</h1>
 <h3 align="center">A passionate Backend developer from Algeria</h3>
 
-- 🔭 I’m currently working on [**KADIYATI**](kadiyati.app)
+- 🔭 I’m currently working on [**KADIYATI**](https://kadiyati.app/)
 
 - 🌱 I’m currently learning **Laravel, Docker,React**
 
